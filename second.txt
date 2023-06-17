@@ -1,0 +1,6 @@
+Hello bro - I created this file using terminal. 
+
+Use commands - 
+
+
+Touch filename.txt
